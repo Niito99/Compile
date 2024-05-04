@@ -1,2 +1,0 @@
-# JustDoIt
-Django Web App
